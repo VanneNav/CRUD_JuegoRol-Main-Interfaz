@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CRUD_Swing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CRUD_JuegoRol-main/out/artifacts/CRUD_Swing_jar/CRUD_Swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
